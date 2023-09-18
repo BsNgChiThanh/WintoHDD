@@ -5,7 +5,8 @@
 1. [WinToHDD 5.1 Technician](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EsQB8ZqU2I9InFj8crFLkNwBnLVGSNafBD6x6Q1pSXlajQ?e=hQck5t)
 2. [WinToHDD v5.8](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Es_tYX3s0EZEnWRUZ2aSKWkB7gaWYFd8aCpWox9RV9rn8w?e=6RvmEA)
 3. [WinToHDD Professional 6.0.1 x 64](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EkEsGk4yBUlLgako3FofJjkBn5H8LgR8-YWVKDjZf6YSsg?e=ljPiIM)
-
+4. [WinToHDD 6.0.2 All Portable KaranPC w64](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/ElqbBEt9vc9NlV48RVFHkHMBaEDYtcCNZIky3Q9F7tgK4A?e=DUtF73)
+   
 ## Giới thiệu ##
 
 - Tạo một bản cài đặt Windows trực tiếp trên đĩa cứng USB của bạn.

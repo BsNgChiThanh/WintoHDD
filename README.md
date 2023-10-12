@@ -1,14 +1,11 @@
 # [WintoHDD](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EijbbkIpIYFLqjZg2hFsA-gBiK4_Tv5eQgUBwz5DgnK6oA?e=ZDsHaB) #
-
 ## Phiên bản Portal ##
-
-1. [WinToHDD 5.1 Technician](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EsQB8ZqU2I9InFj8crFLkNwBnLVGSNafBD6x6Q1pSXlajQ?e=hQck5t)
-2. [WinToHDD v5.8](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Es_tYX3s0EZEnWRUZ2aSKWkB7gaWYFd8aCpWox9RV9rn8w?e=6RvmEA)
-3. [WinToHDD Professional 6.0.1 x 64](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EkEsGk4yBUlLgako3FofJjkBn5H8LgR8-YWVKDjZf6YSsg?e=ljPiIM)
-4. [WinToHDD 6.0.2 All Portable KaranPC w64](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/ElqbBEt9vc9NlV48RVFHkHMBaEDYtcCNZIky3Q9F7tgK4A?e=DUtF73)
+- [WinToHDD 6.0.2 All Portable KaranPC w64](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/ElqbBEt9vc9NlV48RVFHkHMBaEDYtcCNZIky3Q9F7tgK4A?e=DUtF73)
+- [WinToHDD Professional 6.0.1 x 64](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EkEsGk4yBUlLgako3FofJjkBn5H8LgR8-YWVKDjZf6YSsg?e=ljPiIM)
+- [WinToHDD v5.8](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Es_tYX3s0EZEnWRUZ2aSKWkB7gaWYFd8aCpWox9RV9rn8w?e=6RvmEA)
+- [WinToHDD 5.1 Technician](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EsQB8ZqU2I9InFj8crFLkNwBnLVGSNafBD6x6Q1pSXlajQ?e=hQck5t)
    
 ## Giới thiệu ##
-
 - Tạo một bản cài đặt Windows trực tiếp trên đĩa cứng USB của bạn.
 - Sao chép cài đặt Windows từ tệp ISO vào đĩa cứng USB.
 - Sao chép nội dung của mọi cài đặt Windows hiện có trên PC của bạn vào đĩa cứng USB. Sau đó, bạn có thể sử dụng cài đặt mới này của Windows mà không cần truy cập hoặc hiện diện trong cài đặt gốc đó và không cần đĩa khác. Cả hai phiên bản Windows 32 bit và 64 bit đều được hỗ trợ.
@@ -16,7 +13,6 @@
 - Khôi phục PC không có hệ điều hành về trạng thái hoạt động. Nếu bạn không có đĩa cài đặt hoặc đĩa khôi phục, bạn có thể sử dụng WinToHDD để đưa Windows vào đĩa cứng USB của mình và sau đó khởi động từ đó – như thể đó là ổ cứng gốc.
 
 ## Sử dụng ##
-
 - ![image](https://github.com/BsNgChiThanh/WintoHDD/assets/82578024/cf1a94d5-c986-4854-a981-3da6c2bff136)
 - ![image](https://github.com/BsNgChiThanh/WintoHDD/assets/82578024/f34e183d-cb83-4b29-8a9c-dbe8e40d53c6)
 - **Chọn Reinstall là tốt nhất, chọn NewInstall bạn sẽ mất tất cả các dữ liệu vì chúng sẽ gộp tất các các phân vùng ổ cứng trong cùng một ổ đĩa thành 1 ổ duy nhất là ổ C**
